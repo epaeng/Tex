@@ -1,37 +1,47 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.29)  5 AUG 2015 17:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.1)  5 AUG 2015 23:51
 entering extended mode
 **Modified.tex
-(Modified.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 68 languages loaded.
-(sig-alternate.cls ("C:\Program Files (x86)\MikTex\tex\latex\graphics\epsfig.st
-y"
+(C:\Users\ep\Documents\GitHub\Tex\Modified.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\ep\Documents\GitHub\Tex\sig-alternate.cls
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
- ("C:\Program Files (x86)\MikTex\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MikTex\tex\latex\graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MikTex\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MikTex\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MikTex\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MikTex\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MikTex\tex\generic\oberdiek\infwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MikTex\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count79
@@ -42,10 +52,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \epsfxsize=\dimen104
 \epsfysize=\dimen105
 )
-("C:\Program Files (x86)\MikTex\tex\latex\amsfonts\amssymb.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files (x86)\MikTex\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
@@ -53,24 +63,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MikTex\tex\latex\amsmath\amsmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip41
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MikTex\tex\latex\amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MikTex\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen106
 ))
-("C:\Program Files (x86)\MikTex\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-("C:\Program Files (x86)\MikTex\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count80
@@ -141,7 +151,7 @@ Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
 \titleboxnoteflag=\count100
 Document Class: sig-alternate 2012/05/23 - V2.5 - based on acmproc.cls V1.3 <No
 v. 30 '99>
-("C:\Program Files (x86)\MikTex\tex\latex\base\latexsym.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
@@ -173,23 +183,23 @@ LaTeX Info: Redefining \cite on input line 1211.
 \acmcopyr=\toks33
 \boilerplate=\toks34
 \copyrightetc=\toks35
-("C:\Program Files (x86)\MikTex\tex\latex\base\fontenc.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MikTex\tex\latex\base\t1enc.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 
-("C:\Program Files (x86)\MikTex\tex\latex\ae\t1aer.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-("C:\Program Files (x86)\MikTex\tex\latex\algorithms\algorithm.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-("C:\Program Files (x86)\MikTex\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count109
 \float@exts=\toks36
@@ -197,13 +207,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks37
 \@floatcapt=\box31
 )
-("C:\Program Files (x86)\MikTex\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks38
 \c@algorithm=\count110
 )
-("C:\Program Files (x86)\MikTex\tex\latex\algorithms\algorithmic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \c@ALC@unique=\count111
 \c@ALC@line=\count112
@@ -212,18 +222,19 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip44
 \algorithmicindent=\skip45
 )
-("C:\Program Files (x86)\MikTex\tex\latex\psnfss\pifont.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
 Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
 LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
 
-("C:\Program Files (x86)\MikTex\tex\latex\psnfss\upzd.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
 
-("C:\Program Files (x86)\MikTex\tex\latex\psnfss\upsy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (Modified.aux)
+))
+(C:\Users\ep\Documents\GitHub\Tex\Modified.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -237,7 +248,7 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
-("C:\Program Files (x86)\MikTex\tex\context\base\supp-pdf.mkii"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
 \scratchdimen=\dimen123
@@ -252,17 +263,17 @@ LaTeX Font Info:    ... okay on input line 6.
 \everyMPtoPDFconversion=\toks40
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 27.
- ("C:\Program Files (x86)\MikTex\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
-("C:\Program Files (x86)\MikTex\tex\latex\amsfonts\umsb.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 27.
 
-("C:\Program Files (x86)\MikTex\tex\latex\base\ulasy.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Overfull \hbox (1.26794pt too wide) in paragraph at lines 35--37
@@ -270,159 +281,73 @@ Overfull \hbox (1.26794pt too wide) in paragraph at lines 35--37
 /n/9 ]: Mis-cel-la-neous;
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-LaTeX Warning: Citation `rotter1967new' on page \thepage  undefined on input li
-ne 52.
-
-
-LaTeX Warning: Citation `lee2004trust' on page \thepage  undefined on input lin
-e 52.
-
-
-LaTeX Warning: Citation `casper2003human' on page \thepage  undefined on input 
-line 52.
-
-
-LaTeX Warning: Citation `muir1987trust' on page \thepage  undefined on input li
-ne 54.
-
-
-LaTeX Warning: Citation `bainbridge2008effect' on page \thepage  undefined on i
-nput line 54.
-
-
-LaTeX Warning: Citation `yagoda2012you' on page \thepage  undefined on input li
-ne 54.
-
-[1{C:/Users/muddCS15/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-
-LaTeX Warning: Citation `yagoda2012you' on page \thepage  undefined on input li
-ne 56.
-
-
-LaTeX Warning: Citation `billings2012human' on page \thepage  undefined on inpu
-t line 56.
-
-
-LaTeX Warning: Citation `myerson1991game' on page \thepage  undefined on input 
-line 56.
-
-
-LaTeX Warning: Citation `axelrod1981evolution' on page \thepage  undefined on i
-nput line 56.
-
-
-LaTeX Warning: Citation `lee2008human' on page \thepage  undefined on input lin
-e 58.
-
-
-LaTeX Warning: Citation `broz2008planning' on page \thepage  undefined on input
- line 58.
-
-
-LaTeX Warning: Citation `mathur2009uncanny' on page \thepage  undefined on inpu
-t line 58.
-
-
-LaTeX Warning: Citation `berg1995trust' on page \thepage  undefined on input li
-ne 63.
-
-
-LaTeX Warning: Citation `dasgupta2000trust' on page \thepage  undefined on inpu
-t line 65.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 
-Overfull \hbox (3.46371pt too wide) in paragraph at lines 87--88
-\T1/aer/m/n/9 first how trust emerges in human-robot in-ter-ac-tion com-
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
  []
 
 [2]
-
-LaTeX Warning: Citation `crump2013evaluating' on page \thepage  undefined on in
-put line 96.
-
-
-LaTeX Warning: Citation `mason2012conducting' on page \thepage  undefined on in
-put line 96.
-
-
-LaTeX Warning: Citation `chandler2014nonnaivete' on page \thepage  undefined on
- input line 96.
-
-
-LaTeX Warning: Citation `chandler2014nonnaivete' on page \thepage  undefined on
- input line 96.
-
-
-LaTeX Warning: Citation `summerville2013pseudo' on page \thepage  undefined on 
-input line 98.
-
-[3]
-
-LaTeX Warning: Citation `arras2000we' on page \thepage  undefined on input line
- 143.
-
-
-LaTeX Warning: Citation `jian2000foundations' on page \thepage  undefined on in
-put line 144.
-
-
-LaTeX Warning: Citation `arras2000we' on page \thepage  undefined on input line
- 149.
-
-
-LaTeX Warning: Citation `jian2000foundations' on page \thepage  undefined on in
-put line 149.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-(Modified.bbl) [4] (Modified.aux) ) 
+
+Overfull \hbox (3.46371pt too wide) in paragraph at lines 90--91
+\T1/aer/m/n/9 first how trust emerges in human-robot in-ter-ac-tion com-
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+(C:\Users\ep\Documents\GitHub\Tex\Modified.bbl [4]) [5
+
+]
+(C:\Users\ep\Documents\GitHub\Tex\Modified.aux) ) 
 Here is how much of TeX's memory you used:
- 2764 strings out of 493698
- 32864 string characters out of 3143597
- 100117 words of memory out of 3000000
- 6025 multiletter control sequences out of 15000+200000
- 53526 words of font info for 72 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 41i,10n,28p,1334b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MikTex/fonts/enc/dvi
-ps/fontname/8r.enc}<C:/Program Files (x86)/MikTex/fonts/type1/public/amsfonts/c
-m/cmbx9.pfb><C:/Program Files (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmmi6
-.pfb><C:/Program Files (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C
-:/Program Files (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Progra
-m Files (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files 
-(x86)/MikTex/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/M
-ikTex/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MikTex/f
-onts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MikTex/fonts/ty
-pe1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MikTex/fonts/type1/urw/helv
-etic/uhvr8a.pfb><C:/Program Files (x86)/MikTex/fonts/type1/urw/symbol/usyr.pfb>
-<C:/Program Files (x86)/MikTex/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fil
-es (x86)/MikTex/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MikTex
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Modified.pdf (4 pages, 176161 bytes).
+ 2772 strings out of 493921
+ 33119 string characters out of 3147292
+ 98194 words of memory out of 3000000
+ 5997 multiletter control sequences out of 15000+200000
+ 58041 words of font info for 75 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 41i,10n,28p,1532b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/f
+onts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on Modified.pdf (5 pages, 187164 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
